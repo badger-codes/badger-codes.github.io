@@ -1,3 +1,3 @@
-## badger-codes codes here.
+## badger-codes lives here.
 
-Hi Mr. Panter. And world.
+Hello Mr. Panter. And world.
