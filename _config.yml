@@ -1,3 +1,5 @@
 title: badger-codes
 description: Coding Project Flecka
 remote_theme: lewismiddleton/cayman-dark
+
+theme: jekyll-theme-cayman
