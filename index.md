@@ -1,4 +1,10 @@
 
-## Happily coding in the Pacific Northwest.
+I write, erase, rewrite  
+Erase again, and then  
+A poppy blooms.
+    
+    - Katsushika Hokusai
+
+
 
 
