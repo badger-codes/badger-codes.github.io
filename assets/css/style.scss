@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 // Colorspace overrides
 
 .cyan {
@@ -88,3 +83,10 @@
   hr { background: $yellow; }
   blockquote { border-color: $yellow; }
 }
+
+
+---
+---
+
+@import "{{ site.theme }}";
+
