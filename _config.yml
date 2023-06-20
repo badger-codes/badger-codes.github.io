@@ -1,3 +1,4 @@
 remote_theme: "dracula/gh-pages"
 title: badger-codes
 description: coding project flecka
+colorspace: [primary page color pink]
